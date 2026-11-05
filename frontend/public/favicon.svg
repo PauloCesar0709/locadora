@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 48 48" role="img" aria-label="Logo Rodar">
+  <rect width="48" height="48" rx="12" fill="#0F2A5C"/>
+  <circle cx="24" cy="24" r="14" fill="none" stroke="#F5A524" stroke-width="4"/>
+  <circle cx="24" cy="24" r="4" fill="#F5A524"/>
+  <path d="M10.5 22h9M28.5 22h9M24 28v10" stroke="#F5A524" stroke-width="4" stroke-linecap="round"/>
+</svg>
