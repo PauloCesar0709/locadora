@@ -415,9 +415,6 @@ curl -s -X POST http://localhost:8080/api/creditos/1/aprovacao \
 |---------|-----------------|-------------|-----------|
 | Paulo César Silva Monteiro | PauloCesar0709 | https://www.linkedin.com/in/paulo-c%C3%A9sar-desenvolvedor/ | paulocsm2006@gmail.com
 
-> [!TIP]
-> Substitua a imagem padrão por uma foto sua e preencha os links de GitHub, LinkedIn e e-mail.
-
 ---
 
 ## 🙏 Agradecimentos
