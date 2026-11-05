@@ -1,0 +1,15 @@
+# Back-end
+backend/target/
+backend/.env
+*.class
+
+# Front-end
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDEs e sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
